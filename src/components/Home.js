@@ -25,7 +25,7 @@ const Home = () => {
 
   return (
     <div className='registration-form'>
-      <h2 className='text-center'>User Registration Form</h2>
+      <h2 className='text-center'>User Registration</h2>
       <form onSubmit={handleSubmit}>
         <div className='form-group'>
           <label>Username</label>
